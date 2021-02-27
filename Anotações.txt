@@ -1,0 +1,18 @@
+------------------------------ Back ------------------------------
+//Breno Anotações 
+
+
+
+
+------------------------------ Front -------------------------
+// Gabriel Anotações 
+
+
+
+
+
+// Ferramentas utilizadas
+
+Bootstrap 5.0: https://getbootstrap.com
+Jquery 3.5.1: https://jquery.com
+FontAwesome: https://fontawesome.com/icons?d=gallery&p=2&m=free
