@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../../assets/css/bootstrap.css">
+    <link rel="stylesheet" href="../../assets/css/css.css">
+    <link rel="stylesheet" href="../../assets/css/all.css">
+
+    <script src="../../assets/js/jquery-3.5.1.min.js"></script>
+    <script src="../../assets/js/bootstrap.js"></script>
+    <script src="../../assets/js/js.js"></script>
+    <script src="../../assets/js/all.js"></script>
+    <title>Inicio</title>
+</head>
+
+<body class="position-absolute h-100 w-100">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0 justify-content-md-center">
+                    <li class="nav-item">
+                        <button class="btn btn-outline-primary mx-lg-1" data-bs-toggle="modal" data-bs-target="#exampleModal">Entrar</button>
+                    </li>
+                    <li class="nav-item">
+                        <button class="btn btn-success mx-lg-1">Cadastrar</button>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <section class="container conteudo_index py-5 ">
+        <div class="fundo_index"></div>
+        <div class="row h-100">
+            <form action="" class="form-control border-0 align-self-center bg-transparent">
+                <div class="row justify-content-md-center">
+                    <div class="col-12 col-md-4 bg-light rounded py-2">
+                        <div class="col-12">
+                            <p class="text-center">Insira o Código</p>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-8 col-12">
+                                <input type="text" placeholder="Código Pin" class="form-control text-center">
+                            </div>
+                            <div class="col-12 col-md-4">
+                                <button class="btn btn-success">Avançar <i class="far fa-arrow-alt-circle-right"></i></button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </section>
+
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-fullscreen-sm-down">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Login</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <form action="">
+                    <div class="modal-body">
+                        <div class="row">
+                            <div class="col-12 input-group mb-2">
+                                <input type="text" placeholder="E-mail" class="form-control">
+                            </div>
+                            <div class="col-12 input-group mb-2">
+                                <input type="password" placeholder="Senha" class="form-control">
+                            </div>
+                            <div class="col-12">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button class="btn btn-outline-success col-12">Entrar</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>
