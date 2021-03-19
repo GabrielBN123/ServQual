@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30914.41
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServQual", "ServQual\ServQual.csproj", "{91E1DAB0-44D3-4BC2-95C3-4A17243A8CE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAcess", "DataAcess\DataAcess.csproj", "{74A79607-E34A-455D-88F8-EEC0CFE3D332}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{04D32787-2E42-4FFE-A109-5EFF454F9743}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91E1DAB0-44D3-4BC2-95C3-4A17243A8CE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E1DAB0-44D3-4BC2-95C3-4A17243A8CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91E1DAB0-44D3-4BC2-95C3-4A17243A8CE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E1DAB0-44D3-4BC2-95C3-4A17243A8CE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74A79607-E34A-455D-88F8-EEC0CFE3D332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74A79607-E34A-455D-88F8-EEC0CFE3D332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74A79607-E34A-455D-88F8-EEC0CFE3D332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74A79607-E34A-455D-88F8-EEC0CFE3D332}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04D32787-2E42-4FFE-A109-5EFF454F9743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04D32787-2E42-4FFE-A109-5EFF454F9743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04D32787-2E42-4FFE-A109-5EFF454F9743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04D32787-2E42-4FFE-A109-5EFF454F9743}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3A60E16-966F-48D2-AA07-3585F3F08B20}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+D:\_DESENVOLVIMENTO\CODIGO FONTE\ServQual\Model\bin\Debug\netcoreapp5.0\Model.deps.json
+D:\_DESENVOLVIMENTO\CODIGO FONTE\ServQual\Model\bin\Debug\netcoreapp5.0\Model.runtimeconfig.json
+D:\_DESENVOLVIMENTO\CODIGO FONTE\ServQual\Model\bin\Debug\netcoreapp5.0\Model.runtimeconfig.dev.json
+D:\_DESENVOLVIMENTO\CODIGO FONTE\ServQual\Model\bin\Debug\netcoreapp5.0\Model.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\ServQual\Model\bin\Debug\netcoreapp5.0\ref\Model.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\ServQual\Model\bin\Debug\netcoreapp5.0\Model.pdb
+D:\_DESENVOLVIMENTO\CODIGO FONTE\ServQual\Model\obj\Debug\netcoreapp5.0\Model.csprojAssemblyReference.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\ServQual\Model\obj\Debug\netcoreapp5.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\_DESENVOLVIMENTO\CODIGO FONTE\ServQual\Model\obj\Debug\netcoreapp5.0\Model.AssemblyInfoInputs.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\ServQual\Model\obj\Debug\netcoreapp5.0\Model.AssemblyInfo.cs
+D:\_DESENVOLVIMENTO\CODIGO FONTE\ServQual\Model\obj\Debug\netcoreapp5.0\Model.csproj.CoreCompileInputs.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\ServQual\Model\obj\Debug\netcoreapp5.0\Model.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\ServQual\Model\obj\Debug\netcoreapp5.0\ref\Model.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\ServQual\Model\obj\Debug\netcoreapp5.0\Model.pdb
+D:\_DESENVOLVIMENTO\CODIGO FONTE\ServQual\Model\obj\Debug\netcoreapp5.0\Model.genruntimeconfig.cache

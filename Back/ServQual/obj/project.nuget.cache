@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "hJroGD1PpRmGSS4G0XHt5+pR3b6eUTYjaX9aG2Frvcwa4AKzadq/RvH4sro7s0n5xyP38S7ilAgre/IbhKg8rQ==",
+  "success": false,
+  "projectFilePath": "D:\\_DESENVOLVIMENTO\\CODIGO FONTE\\ServQual\\ServQual\\ServQual.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "O projeto Model não é compatível com netcoreapp3.1 (.NETCoreApp,Version=v3.1). O projeto Model dá suporte a: net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "Model",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
