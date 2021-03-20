@@ -48,7 +48,7 @@
 
 .conteudo_index {
     width: 100%;
-    height: 91.4%;
+    height: 91%;
     /* position: absolute; */
 }
 
@@ -76,4 +76,9 @@
     100% {
         background-color: green;
     }
+}
+
+.navbar_topo {
+    background-color: #ffffff82;
+    border-bottom: 2px solid #ffffffa1;
 }
